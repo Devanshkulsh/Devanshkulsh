@@ -8,7 +8,7 @@ I enjoy working across the stack—from crafting clean UI with React & Tailwind 
 - 🌱 I’m currently learning **advanced backend concepts, APIs, and workflow automation (n8n)**
 - 👯 I’m looking to collaborate on **React, MERN stack, and real-world web applications**
 - 💬 Ask me about **React, Tailwind CSS, JavaScript, WordPress, and UI/UX implementation**
-- 📫 How to reach me: **devanshkulshreshtha.dev@gmail.com**
+- 📫 How to reach me: **devkulsh1308@gmail.com**
 - ⚡ Fun fact: **I love turning complex requirements into clean, simple UI**
 
 ---
@@ -37,9 +37,9 @@ I enjoy working across the stack—from crafting clean UI with React & Tailwind 
 
 ## 📊 GitHub Stats
 
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshkulshreshtha&show_icons=true&theme=radical)
+![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshkulshreshtha&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkulshreshtha&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkulshreshtha&layout=compact&theme=tokyonight)
 
 ---
 
@@ -47,7 +47,7 @@ I enjoy working across the stack—from crafting clean UI with React & Tailwind 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-kulshreshtha)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshkulshreshtha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://personal-portfolio-rho-puce-91.vercel.app/)
 
 ---
 
