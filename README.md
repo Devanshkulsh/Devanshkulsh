@@ -37,17 +37,17 @@ I enjoy working across the stack—from crafting clean UI with React & Tailwind 
 
 ## 📊 GitHub Stats
 
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devanshkulsh&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Devansh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Devanshkulsh&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshkulsh&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devanshkulsh&layout=compact&theme=tokyonight)
 
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-kulshreshtha)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshkulshreshtha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/devansh1308)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devanshkulsh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://personal-portfolio-rho-puce-91.vercel.app/)
 
 ---
