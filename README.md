@@ -37,9 +37,9 @@ I enjoy working across the stack—from crafting clean UI with React & Tailwind 
 
 ## 📊 GitHub Stats
 
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshkulshreshtha&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devanshkulsh&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkulshreshtha&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshkulsh&layout=compact&theme=tokyonight)
 
 ---
 
