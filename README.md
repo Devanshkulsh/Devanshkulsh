@@ -35,11 +35,17 @@ I enjoy working across the stack—from crafting clean UI with React & Tailwind 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-![Devansh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Devanshkulsh&show_icons=true&theme=tokyonight)
+- 🔥 Actively building real-world full-stack applications
+- 🧩 Strong focus on React, Tailwind CSS, and scalable UI
+- 🚀 Experience with production-level projects & deployments
+- 🌱 Continuously learning backend systems & automation
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devanshkulsh&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Devanshkulsh&label=Profile%20Views&color=0e75b6&style=flat)
+
+![GitHub Followers](https://img.shields.io/github/followers/Devanshkulsh?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/Devanshkulsh?label=Total%20Stars&style=flat)
 
 
 ---
